@@ -11,33 +11,27 @@ A script for when a Google Form is submitted, it sends out email(s) and creates 
 
 The spreadsheet of the Google Form has a trigger that collects the data needed for the event, then creates a calendar event, invites members and then sends an email with the information.    
 
+Step-by-step guide on connecting Google apps using this script at [Doing More with Google Form](http://chatasweetie.com/2016/10/26/doing-more-with-google-form-google-form-submit-sends-email-and-creates-google-calendar)
+
 
 ### Screenshot
 
 **Example of Google Form**
 
-<img src="img/example-form.png">
+<img src="img/example-form.png" height="350">
 
 **Example of Calendar Event Created**
 
-<img src="img/example-calendar.png">
+<img src="img/example-calendar.png" height="350">
 
 **Example of Email Sent**
 
-<img src="img/example-email.png" >
+<img src="img/example-email.png" height="350">
 
 
 ### Technology Stack
 
 JavaScript
-
-
-
-### How to run Rideminder locally
-
-Step-by-step guide on connecting Google apps using this script at [Doing More with Google Form](http://chatasweetie.com/2016/10/26/doing-more-with-google-form-google-form-submit-sends-email-and-creates-google-calendar)
-
-
 
 
 ### About the Developer    
